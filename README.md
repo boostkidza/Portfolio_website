@@ -1,4 +1,4 @@
-# Portfolio_website
+<!--# Portfolio_website-->
 <!--
 Amruta Patil - Modern Editable Portfolio (Single-file)
 ---------------------------------------------------
@@ -16,7 +16,7 @@ Design notes:
 Enjoy — edit freely!
 -->
 
-<!doctype html>
+<!--<!doctype html>-->
 <html lang="en">
 <head>
   <meta charset="utf-8">
